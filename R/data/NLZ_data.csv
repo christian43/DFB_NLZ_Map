@@ -1,0 +1,58 @@
+;Verein;Saison2019_20;Location;Path;DFB;Bundesland
+1;FC Erzgebirge Aue;2. Bundesliga;50.594092, 12.694640;/Users/saal/Documents/Projekte/Maps/NLZ/logos/01_FC_Erzgebirge_Aue.png;ja;Sachsen
+2;FC Augsburg;Bundesliga;48.396146, 10.883415;/Users/saal/Documents/Projekte/Maps/NLZ/logos/02_FC_Augsburg.png;ja;Bayern
+3;Hertha BSC;Bundesliga;52.518941, 13.221286;/Users/saal/Documents/Projekte/Maps/NLZ/logos/03_Hertha_BSC.png;ja;Berlin
+4;1. FC Union Berlin;Bundesliga;52.426910, 13.694871;/Users/saal/Documents/Projekte/Maps/NLZ/logos/04_FC_Union_Berlin.png;ja;Berlin
+5;Arminia Bielefeld;2. Bundesliga;52.017400, 8.577262;/Users/saal/Documents/Projekte/Maps/NLZ/logos/05_Arminia_Bielefeld.png;ja;Nordrhein-Westfalen
+6;VfL Bochum;2. Bundesliga;51.654757, 7.238096;/Users/saal/Documents/Projekte/Maps/NLZ/logos/06_VFL_Bochum.png;ja;Nordrhein-Westfalen
+7;Eintracht Braunschweig;3. Liga;52.242199, 10.519098;/Users/saal/Documents/Projekte/Maps/NLZ/logos/07_Eintracht_Braunschweig.png;ja;Niedersachsen
+8;Werder Bremen;Bundesliga;53.066791, 8.838306;/Users/saal/Documents/Projekte/Maps/NLZ/logos/08_SV_Werder_Bremen.png;ja;Bremen
+9;Chemnitzer FC;3. Liga;50.804089, 12.937641;/Users/saal/Documents/Projekte/Maps/NLZ/logos/09_Chemnitzer_FC.png;ja;Sachsen
+10;Energie Cottbus;RL Nordost;51.751644, 14.343742;/Users/saal/Documents/Projekte/Maps/NLZ/logos/10_Energie_Cottbus.png;ja;Brandenburg
+11;SV Darmstadt 98;2. Bundesliga;49.889931, 8.674077;/Users/saal/Documents/Projekte/Maps/NLZ/logos/11_SV_Darmstadt_98.png;ja;Hessen
+12;Borussia Dortmund;Bundesliga;51.493674, 7.454146;/Users/saal/Documents/Projekte/Maps/NLZ/logos/12_Borussia_Dortmund.png;ja;Nordrhein-Westfalen
+13;Dynamo Dresden;2. Bundesliga;51.040834, 13.747984;/Users/saal/Documents/Projekte/Maps/NLZ/logos/13_Dynamo_Dresden.png;ja;Sachsen
+14;MSV Duisburg;3. Liga;51.466293, 6.710574;/Users/saal/Documents/Projekte/Maps/NLZ/logos/14_MSV_Duisburg.png;ja;Nordrhein-Westfalen
+15;Fortuna Düsseldorf;Bundesliga;51.225842, 6.830867;/Users/saal/Documents/Projekte/Maps/NLZ/logos/15_Fortuna_Düsseldorf.png;ja;Nordrhein-Westfalen
+16;FC Rot-Weiß Erfurt;RL Nordost;50.973057, 11.027698;/Users/saal/Documents/Projekte/Maps/NLZ/logos/16_Rot_Weiss_Erfurt.png;nein;Thüringen
+17;Rot-Weiss Essen;RL West;51.417682, 7.102159;/Users/saal/Documents/Projekte/Maps/NLZ/logos/17_Rot_Weiss_Essen.png;ja;Nordrhein-Westfalen
+18;FSV Frankfurt;RL Südwest;50.128439, 8.723806;/Users/saal/Documents/Projekte/Maps/NLZ/logos/18_FSV_Frankfurt.png;ja;Hessen
+19;Eintracht Frankfurt;Bundesliga;50.134665, 8.992693;/Users/saal/Documents/Projekte/Maps/NLZ/logos/19_Eintracht_Frankfurt.png;ja;Hessen
+20;SC Freiburg;Bundesliga;47.985571, 7.880707;/Users/saal/Documents/Projekte/Maps/NLZ/logos/20_SC_Freiburg.png;ja;Baden-Württemberg
+21;SpVgg Greuther Fürth;2. Bundesliga;49.497161, 10.995872;/Users/saal/Documents/Projekte/Maps/NLZ/logos/21_SpVgg_Greuther_Fürth.png;ja;Bayern
+22;FC Schalke 04;Bundesliga;51.561275, 7.066976;/Users/saal/Documents/Projekte/Maps/NLZ/logos/22_FC_Schalke_04.png;ja;Nordrhein-Westfalen
+23;Hamburger SV;2. Bundesliga;53.579848, 9.912075;/Users/saal/Documents/Projekte/Maps/NLZ/logos/23_Hamburger_SV.png;ja;Hamburg
+24;Hannover 96;2. Bundesliga;52.377226, 9.774092;/Users/saal/Documents/Projekte/Maps/NLZ/logos/24_Hannover_96.png;ja;Niedersachsen
+25;1. FC Heidenheim;2. Bundesliga;48.668438, 10.140991;/Users/saal/Documents/Projekte/Maps/NLZ/logos/25_FC_Heidenheim.png;ja;Baden-Württemberg
+26;FC Ingolstadt 04;3. Liga;48.745542, 11.484011;/Users/saal/Documents/Projekte/Maps/NLZ/logos/26_FC_Ingolstadt.png;ja;Bayern
+27;FC Carl Zeiss Jena;3. Liga;50.916906, 11.582756;/Users/saal/Documents/Projekte/Maps/NLZ/logos/27_FC_Carl_Zeiss_Jena.png;ja;Thüringen
+28;Karlsruher SC;2. Bundesliga;49.020334, 8.412988;/Users/saal/Documents/Projekte/Maps/NLZ/logos/28_Karlsruher_SC.png;ja;Baden-Württemberg
+29;Holstein Kiel;2. Bundesliga;54.360248, 10.094535;/Users/saal/Documents/Projekte/Maps/NLZ/logos/29_Holstein_Kiel.png;ja;Schleswig-Holstein
+30;1. FC Köln;Bundesliga;50.938185, 6.879496;/Users/saal/Documents/Projekte/Maps/NLZ/logos/30_FC_Köln.png;ja;Nordrhein-Westfalen
+31;FC Viktoria Köln;3. Liga[4];50.944260, 7.300472;/Users/saal/Documents/Projekte/Maps/NLZ/logos/31_SC_Viktoria_Köln.png;ja;Nordrhein-Westfalen
+32;Bayer 04 Leverkusen;Bundesliga;51.097067, 7.031117;/Users/saal/Documents/Projekte/Maps/NLZ/logos/32_Bayer_Leverkusen.png;ja;Nordrhein-Westfalen
+33;RB Leipzig;Bundesliga;51.343005, 12.341750;/Users/saal/Documents/Projekte/Maps/NLZ/logos/33_RB_Leipzig.png;ja;Sachsen
+34;1. FC Magdeburg;3. Liga;52.124029, 11.670888;/Users/saal/Documents/Projekte/Maps/NLZ/logos/34_FC_Magdeburg.png;ja;Sachsen-Anhalt
+35;1. FSV Mainz 05;Bundesliga;49.694155, 8.221490;/Users/saal/Documents/Projekte/Maps/NLZ/logos/35_Mainz_05.png;ja;Rheinland-Pfalz
+36;1. FC Kaiserslautern;3. Liga;49.435494, 7.776996;/Users/saal/Documents/Projekte/Maps/NLZ/logos/36_FC_Kaiserslautern.png;ja;Rheinland-Pfalz
+37;Borussia Mönchengladbach;Bundesliga;51.174664, 6.385527;/Users/saal/Documents/Projekte/Maps/NLZ/logos/37_Borussia_Mönchengladbach.png;ja;Nordrhein-Westfalen
+38;FC Bayern München;Bundesliga;48.213684, 11.590771;/Users/saal/Documents/Projekte/Maps/NLZ/logos/38_FC_Bayern_München.png;ja;Bayern
+39;TSV 1860 München;3. Liga;48.104545, 11.566553;/Users/saal/Documents/Projekte/Maps/NLZ/logos/39_TSV_1860_München.png;ja;Bayern
+40;1. FC Nürnberg;2. Bundesliga;49.334904, 11.330879;/Users/saal/Documents/Projekte/Maps/NLZ/logos/40_FC_Nürnberg.png;ja;Bayern
+41;Rot-Weiß Oberhausen;RL West;51.644005, 6.855340;/Users/saal/Documents/Projekte/Maps/NLZ/logos/41_Rot_Weiss_Oberhausen.png;ja;Nordrhein-Westfalen
+42;Kickers Offenbach;RL Südwest;50.004877, 8.898292;/Users/saal/Documents/Projekte/Maps/NLZ/logos/42_Kickers_Offenbach.png;ja;Hessen
+43;VfL Osnabrück;2. Bundesliga;52.270061, 8.008470;/Users/saal/Documents/Projekte/Maps/NLZ/logos/43_VfL_Osnabrueck.png;ja;Niedersachsen
+44;SC Paderborn 07;Bundesliga;51.725922, 8.719139;/Users/saal/Documents/Projekte/Maps/NLZ/logos/44_SC_Paderborn.png;ja;Nordrhein-Westfalen
+45;SSV Jahn Regensburg;2. Bundesliga;49.003143, 12.075695;/Users/saal/Documents/Projekte/Maps/NLZ/logos/45_Jahn_Regensburg.png;ja;Bayern
+46;Hansa Rostock;3. Liga;54.085772, 12.094873;/Users/saal/Documents/Projekte/Maps/NLZ/logos/46_FC_Hansa_Rostock.png;ja;Mecklenburg-Vorpommern
+47;1. FC Saarbrücken;RL Südwest;49.247762, 6.984387;/Users/saal/Documents/Projekte/Maps/NLZ/logos/47_FC_Saarbrücken.png;ja;Saarland
+48;SV Sandhausen;2. Bundesliga;49.334330, 8.647053;/Users/saal/Documents/Projekte/Maps/NLZ/logos/48_SV_Sandhausen.png;ja;Baden-Württemberg
+49;SV Elversberg;RL Südwest;49.318630, 7.123653;/Users/saal/Documents/Projekte/Maps/NLZ/logos/49_SV_Elversberg.png;ja;Saarland
+50;FC St. Pauli;2. Bundesliga;53.574262, 10.089692;/Users/saal/Documents/Projekte/Maps/NLZ/logos/50_St_Pauli.png;ja;Hamburg
+51;VfB Stuttgart;2. Bundesliga;48.789853, 9.334235;/Users/saal/Documents/Projekte/Maps/NLZ/logos/51_VfB_Stuttgart.png;ja;Baden-Württemberg
+52;Stuttgarter Kickers;Oberliga Ba-Wü;48.648338, 9.105955;/Users/saal/Documents/Projekte/Maps/NLZ/logos/52_Stuttgarter_Kickers.png;ja;Baden-Württemberg
+53;SpVgg Unterhaching;3. Liga;48.001144, 11.614723;/Users/saal/Documents/Projekte/Maps/NLZ/logos/53_SpVgg_Unterhaching.png;ja;Bayern
+54;SV Wehen Wiesbaden;2. Bundesliga;50.159967, 8.182810;/Users/saal/Documents/Projekte/Maps/NLZ/logos/54_SV_Wehen_Wiesbaden.png;ja;Hessen
+55;VfL Wolfsburg;Bundesliga;52.415968, 10.792025;/Users/saal/Documents/Projekte/Maps/NLZ/logos/55_VfL_Wolfsburg.png;ja;Niedersachsen
+56;Würzburger Kickers;3. Liga;49.767531, 9.931627;/Users/saal/Documents/Projekte/Maps/NLZ/logos/56_Würzburger_Kickers.png;ja;Bayern
+57;TSG 1899 Hoffenheim;Bundesliga;49.292379, 8.816463;/Users/saal/Documents/Projekte/Maps/NLZ/logos/57_TSG_Hoffenheim.png;ja;Baden-Württemberg

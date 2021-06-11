@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[paperheight=30cm, paperwidth = 30cm, top = 1cm, left = 1cm, right = 1cm, bottom =
+0cm,landscape=false]{geometry}
+\usepackage{multicol}
+\usepackage[german]{babel}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{positioning,arrows}
+\usepackage{color}
+\usepackage{fontspec}
+\usepackage[abs]{overpic}
+\setmainfont[Mapping = text-tex]{Lato}
+\setlength{\columnsep}{1cm}
+\definecolor{hintergrund}{rgb}{0.90, 0.90, 0.90}
+\pagecolor{hintergrund}
+
+
+
+\begin{document}
+\pagestyle{empty}
+
+  \begin{center}
+   \fontsize{12pt}{15pt}\selectfont
+   \begin{overpic}[
+	   scale=1.2]{R/DFB_NLZ_MAP.pdf}
+	\put(0,730){\LARGE{\textbf{56} Nachwuchsleistungszentren insgesamt}}
+	\put(30,660){\LARGE{\textbf{18} Bundesliga}}
+	\put(30,640){\LARGE{\textbf{18} 2. Bundesliga}}
+	\put(30,620){\LARGE{\textbf{12} 3. Liga}}
+	\put(30,600){\LARGE{\textbf{4} RL Süd-West}}
+	\put(30,580){\LARGE{\textbf{2} RL West}}
+	\put(30,560){\LARGE{\textbf{1} RL Nord-Ost}}
+	\put(30,540){\LARGE{\textbf{1} OL Ba-Wü}}
+  \end{overpic}
+  \end{center}
+
+  \end{document}
