@@ -1,0 +1,58 @@
+;Verein;Saison2019_20;Location;DFB;Bundesland
+1;FC Erzgebirge Aue;2. Bundesliga;50.594092, 12.694640;ja;Sachsen
+2;FC Augsburg;Bundesliga;48.396146, 10.883415;ja;Bayern
+3;Hertha BSC;Bundesliga;52.518941, 13.221286;ja;Berlin
+4;1. FC Union Berlin;Bundesliga;52.426910, 13.694871;ja;Berlin
+5;Arminia Bielefeld;2. Bundesliga;52.017400, 8.577262;ja;Nordrhein-Westfalen
+6;VfL Bochum;2. Bundesliga;51.654757, 7.238096;ja;Nordrhein-Westfalen
+7;Eintracht Braunschweig;3. Liga;52.242199, 10.519098;ja;Niedersachsen
+8;Werder Bremen;Bundesliga;53.066791, 8.838306;ja;Bremen
+9;Chemnitzer FC;3. Liga;50.804089, 12.937641;ja;Sachsen
+10;Energie Cottbus;RL Nordost;51.751644, 14.343742;ja;Brandenburg
+11;SV Darmstadt 98;2. Bundesliga;49.889931, 8.674077;ja;Hessen
+12;Borussia Dortmund;Bundesliga;51.493674, 7.454146;ja;Nordrhein-Westfalen
+13;Dynamo Dresden;2. Bundesliga;51.040834, 13.747984;ja;Sachsen
+14;MSV Duisburg;3. Liga;51.466293, 6.710574;ja;Nordrhein-Westfalen
+15;Fortuna Düsseldorf;Bundesliga;51.225842, 6.830867;ja;Nordrhein-Westfalen
+16;FC Rot-Weiß Erfurt;RL Nordost;50.973057, 11.027698;nein;Thüringen
+17;Rot-Weiss Essen;RL West;51.417682, 7.102159;ja;Nordrhein-Westfalen
+18;FSV Frankfurt;RL Südwest;50.128439, 8.723806;ja;Hessen
+19;Eintracht Frankfurt;Bundesliga;50.134665, 8.992693;ja;Hessen
+20;SC Freiburg;Bundesliga;47.985571, 7.880707;ja;Baden-Württemberg
+21;SpVgg Greuther Fürth;2. Bundesliga;49.497161, 10.995872;ja;Bayern
+22;FC Schalke 04;Bundesliga;51.561275, 7.066976;ja;Nordrhein-Westfalen
+23;Hamburger SV;2. Bundesliga;53.579848, 9.912075;ja;Hamburg
+24;Hannover 96;2. Bundesliga;52.377226, 9.774092;ja;Niedersachsen
+25;1. FC Heidenheim;2. Bundesliga;48.668438, 10.140991;ja;Baden-Württemberg
+26;FC Ingolstadt 04;3. Liga;48.745542, 11.484011;ja;Bayern
+27;FC Carl Zeiss Jena;3. Liga;50.916906, 11.582756;ja;Thüringen
+28;Karlsruher SC;2. Bundesliga;49.020334, 8.412988;ja;Baden-Württemberg
+29;Holstein Kiel;2. Bundesliga;54.360248, 10.094535;ja;Schleswig-Holstein
+30;1. FC Köln;Bundesliga;50.938185, 6.879496;ja;Nordrhein-Westfalen
+31;FC Viktoria Köln;3. Liga[4];50.944260, 7.300472;ja;Nordrhein-Westfalen
+32;Bayer 04 Leverkusen;Bundesliga;51.097067, 7.031117;ja;Nordrhein-Westfalen
+33;RB Leipzig;Bundesliga;51.343005, 12.341750;ja;Sachsen
+34;1. FC Magdeburg;3. Liga;52.124029, 11.670888;ja;Sachsen-Anhalt
+35;1. FSV Mainz 05;Bundesliga;49.694155, 8.221490;ja;Rheinland-Pfalz
+36;1. FC Kaiserslautern;3. Liga;49.435494, 7.776996;ja;Rheinland-Pfalz
+37;Borussia Mönchengladbach;Bundesliga;51.174664, 6.385527;ja;Nordrhein-Westfalen
+38;FC Bayern München;Bundesliga;48.213684, 11.590771;ja;Bayern
+39;TSV 1860 München;3. Liga;48.104545, 11.566553;ja;Bayern
+40;1. FC Nürnberg;2. Bundesliga;49.334904, 11.330879;ja;Bayern
+41;Rot-Weiß Oberhausen;RL West;51.644005, 6.855340;ja;Nordrhein-Westfalen
+42;Kickers Offenbach;RL Südwest;50.004877, 8.898292;ja;Hessen
+43;VfL Osnabrück;2. Bundesliga;52.270061, 8.008470;ja;Niedersachsen
+44;SC Paderborn 07;Bundesliga;51.725922, 8.719139;ja;Nordrhein-Westfalen
+45;SSV Jahn Regensburg;2. Bundesliga;49.003143, 12.075695;ja;Bayern
+46;Hansa Rostock;3. Liga;54.085772, 12.094873;ja;Mecklenburg-Vorpommern
+47;1. FC Saarbrücken;RL Südwest;49.247762, 6.984387;ja;Saarland
+48;SV Sandhausen;2. Bundesliga;49.334330, 8.647053;ja;Baden-Württemberg
+49;SV Elversberg;RL Südwest;49.318630, 7.123653;ja;Saarland
+50;FC St. Pauli;2. Bundesliga;53.574262, 10.089692;ja;Hamburg
+51;VfB Stuttgart;2. Bundesliga;48.789853, 9.334235;ja;Baden-Württemberg
+52;Stuttgarter Kickers;Oberliga Ba-Wü;48.648338, 9.105955;ja;Baden-Württemberg
+53;SpVgg Unterhaching;3. Liga;48.001144, 11.614723;ja;Bayern
+54;SV Wehen Wiesbaden;2. Bundesliga;50.159967, 8.182810;ja;Hessen
+55;VfL Wolfsburg;Bundesliga;52.415968, 10.792025;ja;Niedersachsen
+56;Würzburger Kickers;3. Liga;49.767531, 9.931627;ja;Bayern
+57;TSG 1899 Hoffenheim;Bundesliga;49.292379, 8.816463;ja;Baden-Württemberg
